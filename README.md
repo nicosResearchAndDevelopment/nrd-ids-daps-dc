@@ -1,2 +1,4 @@
-# nrd-ids-daps-dc
+# DAPS-DC
+
 IDS "Dynamic Attributes Provisioning Service" (edition "Developers Communitiy")
+
