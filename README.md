@@ -14,7 +14,7 @@ Repository: [nrd-ids-daps-dc-client-nodejs](https://github.com/nicosResearchAndD
 
 ## Follow
 
-Not the badest idea is to follow by watching its repository. At second it will be also a good idea to follow [@LostIndDataSpace](https://twitter.com/LostInDataSpace). DAPS-DC has it's own hashtag: #nRD_ids_daps_dc.
+Not the badest idea is to follow by watching its repository. At second it will be also a good idea to follow [@LostInDataSpace](https://twitter.com/LostInDataSpace). DAPS-DC has it's own hashtag: #nRD_ids_daps_dc.
 
 ---
 
